@@ -15,7 +15,7 @@
   "type_module":        "template",
   "dependance":         "",
   "description":        "Allow to display the manufacturers brand in your front page, the categories title and image",
-  "image":              "ModuleInfosJson/image.pngs",
+  "image":              "ModuleInfosJson/image.png",
 
   "authors": [
     {
