@@ -31,7 +31,7 @@ Implementation:
 
 - Copy the modules_front_page_manufacturers.json into ClicShopping/Work/Cache/Github (manual installation)
 
-- Marketplace link : https://www.clicshopping.org/forum/files/file/54-modules-front-page-brands-image/
+- Marketplace link : https://www.clicshopping.org/forum/files/file/48-modules-front-page-brands-image/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_front_page_manufacturers/blob/master/ModuleInfosJson/image.png)
 
